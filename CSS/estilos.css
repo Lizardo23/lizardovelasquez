@@ -80,8 +80,8 @@ aside{
 footer{
     text-align: center;
     padding: 15px;
-    background-color: #e9eceeff;
-    color: white;
+    background-color: rgb(224, 229, 232);
+    color: rgb(20, 23, 227);
     border-radius: 8px;
     margin-top: 20px;
 }

@@ -22,7 +22,7 @@ function cambiodeTexto(){
     document.getElementById('Subtitulo').textContent="YA LE SE AL JS";
 }
 function cambiodeTexto1(){
-    document.getElementById('titulo1').textContent="HOLA A TODOS LOS QUE INGRESARON A MI PAGINA "
+    document.getElementById('titulo1').textContent="¡Bienvenido(a)! Si llegaste por accidente… qué buen accidente"
 }
 function cambiodeTexto2(){
     document.getElementById('titulo2').textContent="Pasa, pasa… la web no muerde"

@@ -23,7 +23,9 @@ function cambiodeTexto(){
 }
 function cambiodeTexto1(){
     document.getElementById('titulo1').textContent="¡Bienvenido(a)! Si llegaste por accidente… qué buen accidente"
+    alert("No te asuste solo es un alert")
 }
 function cambiodeTexto2(){
     document.getElementById('titulo2').textContent="Pasa, pasa… la web no muerde"
+    alert("sin miedo mi pagina no tiene virus :)")
 }

@@ -35,3 +35,6 @@ function cambiarFondo1(){
 function cambiarFondo2(){
      document.getElementById('header').style.background='#a00cf5ff';
 }
+function cambiarcolortexto(){
+    document.getElementById('texto1').style.color='#1af0e5ff';
+}

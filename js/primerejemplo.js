@@ -29,3 +29,6 @@ function cambiodeTexto2(){
     document.getElementById('titulo2').textContent="Pasa, pasa… la web no muerde";
     alert("sin miedo mi pagina no tiene virus :)");
 }
+function cambiarFondo1(){
+     document.getElementById('menu').style.background='#ee1313ff';
+}

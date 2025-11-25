@@ -33,4 +33,4 @@ function cambiarFondo1(){
      document.getElementById('footer').style.background='#ee1313ff';
 }
 function cambiarFondo2(){
-     document.getElementById('header').style.background='#9a06f0ff';
+     document.getElementById('header').style.background='#2906f0ff';

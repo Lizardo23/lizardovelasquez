@@ -37,9 +37,9 @@ function cambiarFondo2(){
 }
 function cambiarcolortexto(){
     document.getElementById('texto1').style.color='#1af0e5ff';
-    document.getElementById('texto2').style.color='#1af0e5ff';
-    document.getElementById('texto3').style.color='#1af0e5ff';
-    document.getElementById('texto4').style.color='#1af0e5ff';
-    document.getElementById('texto5').style.color='#1af0e5ff';
-    document.getElementById('texto6').style.color='#1af0e5ff';
+    document.getElementById('texto2').style.color='#db7501ff';
+    document.getElementById('texto3').style.color='#38dd0fff';
+    document.getElementById('texto4').style.color='#ee0726ff';
+    document.getElementById('texto5').style.color='#8c45a1ff';
+    document.getElementById('texto6').style.color='#f213faff';
 }

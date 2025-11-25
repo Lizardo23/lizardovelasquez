@@ -30,5 +30,5 @@ function cambiodeTexto2(){
     alert("sin miedo mi pagina no tiene virus :)");
 }
 function cambiarFondo1(){
-     document.getElementById('menu').style.background='#ee1313ff';
+     document.getElementById('footer').style.background='#ee1313ff';
 }

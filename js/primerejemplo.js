@@ -33,7 +33,7 @@ function cambiarFondo1(){
      document.getElementById('footer').style.background='#ee1313ff';
 }
 function cambiarFondo2(){
-     document.getElementById('header').style.background='#9a999bff';
+     document.getElementById('header').style.background='#6e6d6fff';
 }
 function cambiarcolortexto(){
     document.getElementById('texto1').style.color='#1af0e5ff';

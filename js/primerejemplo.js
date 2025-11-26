@@ -14,7 +14,7 @@ function cambiarColor(){
 }
 function cambiarLogo(){
     document.getElementById('logo').src='imagenes/logo3.jpg';
-    alert("Actualizamos el logo. Porque crecer también es verse más guapo")
+    alert("Actualizamos el logo. Porque crecer también es verse más guapo");
 }
 function cambiarFondo(){
      document.getElementById('menu').style.background='#524604ff';
@@ -24,11 +24,11 @@ function cambiodeTexto(){
 }
 function cambiodeTexto1(){
     document.getElementById('titulo1').textContent="¡Bienvenido(a)! Si llegaste por accidente… qué buen accidente";
-    alert("No te asuste solo es un alert");
+    alert("Nuevo título… mismo proyecto, más actitud.");
 }
 function cambiodeTexto2(){
     document.getElementById('titulo2').textContent="Pasa, pasa… la web no muerde";
-    alert("sin miedo mi pagina no tiene virus :)");
+    alert("Renovamos esa parte de arriba… ya era hora");
 }
 function cambiarFondo1(){
      document.getElementById('footer').style.background='#ee1313ff';
@@ -36,7 +36,7 @@ function cambiarFondo1(){
 }
 function cambiarFondo2(){
      document.getElementById('header').style.background='#b209eaff';
-     alert("Fondo nuevo, misma esencia. Pero con más estilo")
+     alert("Fondo nuevo, misma esencia. Pero con más estilo");
 }
 function cambiarcolortexto(){
     document.getElementById('texto1').style.color='#1af0e5ff';
@@ -45,5 +45,5 @@ function cambiarcolortexto(){
     document.getElementById('texto4').style.color='#1af0e5ff';
     document.getElementById('texto5').style.color='#1af0e5ff';
     document.getElementById('texto6').style.color='#1af0e5ff';
-    alert("Le dimos color a las letras. Porque el blanco y negro ya estaba muy básico.")
+    alert("Le dimos color a las letras. Porque el blanco y negro ya estaba muy básico.");
 }

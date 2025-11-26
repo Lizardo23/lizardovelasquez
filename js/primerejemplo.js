@@ -48,5 +48,5 @@ function cambiarcolortexto(){
     alert("Le dimos color a las letras. Porque el blanco y negro ya estaba muy básico.");
 }
 function cambiarFondo3(){
-     document.getElementById('article').style.background='#4af008ff';
+     document.getElementById('aside').style.background='#4af008ff';
 }

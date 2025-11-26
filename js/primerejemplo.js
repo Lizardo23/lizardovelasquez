@@ -14,6 +14,7 @@ function cambiarColor(){
 }
 function cambiarLogo(){
     document.getElementById('logo').src='imagenes/logo3.jpg';
+    alert("Actualizamos el logo. Porque crecer también es verse más guapo")
 }
 function cambiarFondo(){
      document.getElementById('menu').style.background='#524604ff';
@@ -31,9 +32,11 @@ function cambiodeTexto2(){
 }
 function cambiarFondo1(){
      document.getElementById('footer').style.background='#ee1313ff';
+     alert("Sí, el footer cambió de color. Lo pintamos para que no se sienta ignorado.")
 }
 function cambiarFondo2(){
      document.getElementById('header').style.background='#b209eaff';
+     alert("Fondo nuevo, misma esencia. Pero con más estilo")
 }
 function cambiarcolortexto(){
     document.getElementById('texto1').style.color='#1af0e5ff';
@@ -42,4 +45,5 @@ function cambiarcolortexto(){
     document.getElementById('texto4').style.color='#1af0e5ff';
     document.getElementById('texto5').style.color='#1af0e5ff';
     document.getElementById('texto6').style.color='#1af0e5ff';
+    alert("Le dimos color a las letras. Porque el blanco y negro ya estaba muy básico.")
 }

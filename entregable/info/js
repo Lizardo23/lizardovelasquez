@@ -1,0 +1,10 @@
+// Mensaje al hacer clic en el botón del héroe
+function verProductos(){
+  alert("¡Explora los productos frescos que tenemos para ti!");
+}
+
+// Mensaje al cambiar el color del menú (ejemplo interactivo)
+function cambiarColorMenu(){
+  document.querySelector('.header').style.background = '#1b6f34';
+  alert("El menú cambió de color. ¡Ahora combina aún más con la naturaleza!");
+}

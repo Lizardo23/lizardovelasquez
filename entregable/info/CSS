@@ -1,0 +1,109 @@
+/* Estilos generales */
+*{
+  box-sizing:border-box;
+  margin:0;
+  padding:0;
+  font-family:Arial, sans-serif;
+}
+body{
+  background:#f4f4f4;
+  color:#222;
+}
+
+/* Header */
+.header{
+  background:#2f9e44;
+  padding:20px;
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  color:#fff;
+}
+.logo{
+  font-size:28px;
+  font-weight:bold;
+}
+.menu a{
+  margin-left:15px;
+  color:#fff;
+  text-decoration:none;
+  font-weight:bold;
+}
+.menu a:hover{
+  text-decoration:underline;
+}
+
+/* Hero */
+.hero{
+  text-align:center;
+  padding:80px 20px;
+  background:linear-gradient(135deg,#c7f9cc,#80ed99);
+}
+.hero h1{
+  font-size:42px;
+  margin-bottom:15px;
+  color:#064e3b;
+}
+.hero p{
+  font-size:18px;
+  margin-bottom:20px;
+}
+.btn{
+  padding:12px 20px;
+  background:#2f9e44;
+  color:white;
+  border:none;
+  border-radius:8px;
+  font-size:16px;
+  cursor:pointer;
+}
+.btn:hover{
+  background:#238636;
+}
+
+/* Sección Acerca */
+.acerca{
+  max-width:900px;
+  margin:40px auto;
+  padding:20px;
+  background:white;
+  border-radius:10px;
+  box-shadow:0 4px 14px rgba(0,0,0,0.1);
+}
+.acerca h2{
+  color:#2f9e44;
+  margin-bottom:10px;
+}
+
+/* Productos */
+.productos{
+  max-width:900px;
+  margin:40px auto;
+  text-align:center;
+}
+.productos h2{
+  color:#2f9e44;
+}
+.cards{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(200px,1fr));
+  gap:20px;
+  margin-top:20px;
+}
+.card{
+  background:white;
+  padding:25px;
+  border-radius:10px;
+  font-weight:bold;
+  box-shadow:0 4px 14px rgba(0,0,0,0.08);
+}
+
+/* Footer */
+.footer{
+  text-align:center;
+  padding:15px;
+  background:#eaeaea;
+  margin-top:40px;
+  font-size:14px;
+  color:#555;
+}
